@@ -3,3 +3,6 @@
 
 # Byte-compiled
 __pycache__/
+
+# Dependency directories
+node_modules/
